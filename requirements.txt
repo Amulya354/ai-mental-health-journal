@@ -1,7 +1,8 @@
 streamlit
 transformers
 torch
+scikit-learn
 pandas
 matplotlib
-scikit-learn
-plotly
+datasets
+
